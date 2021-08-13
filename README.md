@@ -14,4 +14,5 @@ Due to the short time period I wasn't about to hook a backend to this project an
 simplify the learning process and maximise the efficency of work being done by the user. As a result all the to-dos and notes made by the user were meant to 
 disappear after the study session with the goals of the studnent and required work being completed so they would have a clean slate for their next batch of work.
 
-# Final project
+# Final project demo
+![Project Demo](https://github.com/yash-chaudhary/InDaFlow/blob/master/Assets/InDaFlow_demo.gif)

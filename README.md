@@ -1,6 +1,5 @@
 # InDaFlow
-As the only programmer on the team I was able to whip up a productivity application thats build for students primarily in years K to 12, however more geared towards
-kids in primary school who are just beginning their journey managing homework loads.
+As the only programmer on the team I was able to whip up a productivity application in about 28 hours that's built for students primarily in years K to 12, however more geared towards kids in primary school who are just beginning their journey managing homework loads.
 
 The web applications contains 4 tool that are able to be tested and used by the students. Of course a productivty app isn't complete without a way to keep track
 of homework. "ScribblePro" as it's so eloquently named allows students to emulate physical sticky notes in a digital format. Our brains are meant to come up with
